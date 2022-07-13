@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dOnDiK6CfD0VFEAtI/7uf+G9bHY/yB7mUQEnUk/HYNAKOwbkjtZVGYRsXfsdI7AV1Loxq+dBiUH9PrRavfceMg==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projeler\\3 -Zor\\13 - Barcode Generator\\BarcodeGenerator\\BarcodeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SIA-OF1\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\SIA-OF1\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\SIA-OF1\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\SIA-OF1\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\SIA-OF1\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
